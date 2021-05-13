@@ -1,0 +1,10 @@
+E:\Programs\Addition Tutor (10)\obj\Debug\Addition Tutor (10).csprojAssemblyReference.cache
+E:\Programs\Addition Tutor (10)\obj\Debug\Addition_Tutor__10_.Form1.resources
+E:\Programs\Addition Tutor (10)\obj\Debug\Addition_Tutor__10_.Properties.Resources.resources
+E:\Programs\Addition Tutor (10)\obj\Debug\Addition Tutor (10).csproj.GenerateResource.cache
+E:\Programs\Addition Tutor (10)\obj\Debug\Addition Tutor (10).csproj.CoreCompileInputs.cache
+E:\Programs\Addition Tutor (10)\bin\Debug\Addition Tutor (10).exe.config
+E:\Programs\Addition Tutor (10)\bin\Debug\Addition Tutor (10).exe
+E:\Programs\Addition Tutor (10)\bin\Debug\Addition Tutor (10).pdb
+E:\Programs\Addition Tutor (10)\obj\Debug\Addition Tutor (10).exe
+E:\Programs\Addition Tutor (10)\obj\Debug\Addition Tutor (10).pdb
